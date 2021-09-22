@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HorizonV8
 ## The successor of `HorizonV4`
 ## HorizonV8 is an ML & AI Powered Object Detection Engine
